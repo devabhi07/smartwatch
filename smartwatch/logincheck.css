@@ -1,0 +1,23 @@
+/* .input-field {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    margin: 10px 0;
+    position: relative;
+}
+ span{
+    position: absolute;
+    bottom: 12px;
+    right: 17px;
+    font-size: 14px;
+    color: rgb(236, 76, 76);
+
+}
+#subit-error{
+    color: rgb(240, 103, 93);
+
+}
+ span i{
+    color: seagreen;
+
+} */
